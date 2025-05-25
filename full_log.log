@@ -1,0 +1,24 @@
+FILE: /home/saleh/FUM/OS/project/1/test/dir_1/dir_2/test_3.txt
+  Depth: 2
+  Thread ID: 140546814850752
+  PID Chain: 6482>6482>6484>6486
+  Last Modified: 2025-05-09 09:05:53
+
+FILE: /home/saleh/FUM/OS/project/1/test/dir_1/dir_2/test_4.txt
+  Depth: 2
+  Thread ID: 140546670589632
+  PID Chain: 6482>6482>6484>6486
+  Last Modified: 2025-05-09 09:06:07
+
+FILE: /home/saleh/FUM/OS/project/1/test/dir_1/test_2.txt
+  Depth: 1
+  Thread ID: 140546814850752
+  PID Chain: 6482>6482>6484
+  Last Modified: 2025-05-09 09:05:20
+
+FILE: /home/saleh/FUM/OS/project/1/test/test1.txt
+  Depth: 0
+  Thread ID: 140546814850752
+  PID Chain: 6482>6482
+  Last Modified: 2025-05-09 09:05:27
+

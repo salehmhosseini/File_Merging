@@ -1,0 +1,16 @@
+----- Start of /home/saleh/FUM/OS/project/1/test/dir_1/dir_2/test_3.txt -----
+test 3 content older
+----- End of /home/saleh/FUM/OS/project/1/test/dir_1/dir_2/test_3.txt -----
+
+----- Start of /home/saleh/FUM/OS/project/1/test/dir_1/dir_2/test_4.txt -----
+test 4 content new
+----- End of /home/saleh/FUM/OS/project/1/test/dir_1/dir_2/test_4.txt -----
+
+----- Start of /home/saleh/FUM/OS/project/1/test/dir_1/test_2.txt -----
+test_2 content
+----- End of /home/saleh/FUM/OS/project/1/test/dir_1/test_2.txt -----
+
+----- Start of /home/saleh/FUM/OS/project/1/test/test1.txt -----
+test 1 content
+----- End of /home/saleh/FUM/OS/project/1/test/test1.txt -----
+

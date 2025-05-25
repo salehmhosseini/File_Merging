@@ -1,0 +1,3 @@
+[PROCESS 6486] entered directory: /home/saleh/FUM/OS/project/1/test/dir_1/dir_2
+[THREAD 140546814850752] read file: /home/saleh/FUM/OS/project/1/test/dir_1/dir_2/test_3.txt
+[THREAD 140546670589632] read file: /home/saleh/FUM/OS/project/1/test/dir_1/dir_2/test_4.txt
